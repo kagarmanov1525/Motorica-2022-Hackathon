@@ -1,6 +1,6 @@
 # Motorica-2022-Hackathon
 
-SPRINT№1
+[SPRINT№1](https://www.kaggle.com/competitions/motorica-gesture-classification-task)
 
 Вас приветствует компания [Моторика](https://global.motorica.org/). Мы изготавливаем и помогаем получить бионические протезы людям с врожденными особенностями и ампутациями на уровне кисти и предплечья.  
 
